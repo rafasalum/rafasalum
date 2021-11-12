@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafasalum
-- 👀 I’m interested in coding in Python and RStudio, Big Data, Data Cube, Machine Learning, Remote Sesning Stats
+- 👀 I’m interested in coding in Python and RStudio, Big Data, Data Cube, Machine Learning, Remote Sensing Stats
 - 🌱 I’m currently learning ...Python adn RStudio
 - 💞️ I’m looking to collaborate on Developing and Creating packages and complex functions
 - 📫 How to reach me ...here!!
