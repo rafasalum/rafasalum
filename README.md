@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Python adn RStudio
 - 💞️ I’m looking to collaborate on Developing and Creating packages and complex functions
 - 📫 How to reach me ...here!!
-<meta name="google-site-verification" content="uisazD2w_X4GkSUAjk-MS47jI4wDnnufWUQGduX-2Do" />
+
 <!---
 rafasalum/rafasalum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
